@@ -33,4 +33,7 @@ Package frpc into qnap application.
 4、打包成功后的文件放置在本项目根路径下的`build`目录下
 
 
+### 鸣谢
+本项目基于[XGFan](https://github.com/XGFan)的frpc-qnap
+
 
