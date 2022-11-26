@@ -1,0 +1,7 @@
+**/.idea/*
+**/.vscode/*
+**/_mac/*
+
+# Mac系统图表文件
+**/.DS_Store
+
